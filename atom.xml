@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+  <title>高玉彬</title>
+  
+  <subtitle>喃陌君</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://gaoyubinqaq.github.io/"/>
+  <updated>2019-11-13T04:07:53.607Z</updated>
+  <id>http://gaoyubinqaq.github.io/</id>
+  
+  <author>
+    <name>高玉彬</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://gaoyubinqaq.github.io/2019/11/13/hello-world/"/>
+    <id>http://gaoyubinqaq.github.io/2019/11/13/hello-world/</id>
+    <published>2019-11-13T04:07:53.606Z</published>
+    <updated>2019-11-13T04:07:53.607Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>介绍</title>
+    <link href="http://gaoyubinqaq.github.io/2019/09/05/title-jie-shao/"/>
+    <id>http://gaoyubinqaq.github.io/2019/09/05/title-jie-shao/</id>
+    <published>2019-09-04T16:00:00.000Z</published>
+    <updated>2019-11-13T04:43:17.282Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;哈哈哈哈哈&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="介绍" scheme="http://gaoyubinQAQ.github.io/categories/%E4%BB%8B%E7%BB%8D/"/>
+    
+    
+      <category term="主题" scheme="http://gaoyubinQAQ.github.io/tags/%E4%B8%BB%E9%A2%98/"/>
+    
+  </entry>
+  
+</feed>
