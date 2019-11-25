@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gaoyubinqaq.github.io/"/>
-  <updated>2019-11-13T06:55:35.322Z</updated>
+  <updated>2019-11-25T05:52:18.584Z</updated>
   <id>http://gaoyubinqaq.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>课前话</title>
-    <link href="http://gaoyubinqaq.github.io/2019/11/13/ke-qian-hua/"/>
-    <id>http://gaoyubinqaq.github.io/2019/11/13/ke-qian-hua/</id>
-    <published>2019-11-12T16:00:00.000Z</published>
-    <updated>2019-11-13T06:55:35.322Z</updated>
+    <title>测试面试</title>
+    <link href="http://gaoyubinqaq.github.io/2019/11/25/ce-shi-mian-shi/"/>
+    <id>http://gaoyubinqaq.github.io/2019/11/25/ce-shi-mian-shi/</id>
+    <published>2019-11-25T05:12:03.000Z</published>
+    <updated>2019-11-25T05:52:18.584Z</updated>
     
     <summary type="html">
     
@@ -29,17 +29,20 @@
       
         
         
-          &lt;h2 id=&quot;计算机基础知识&quot;&gt;&lt;a href=&quot;#计算机基础知识&quot; class=&quot;headerlink&quot;
+          &lt;p&gt;软件测试常见面试题及答案&lt;/p&gt;
+&lt;p&gt;软件测试方法有哪些分类？各有什么特点？设计测试用例的主要方法有哪些？ 软件测试方法分类&lt;/p&gt;
+&lt;p&gt;1）白盒、黑盒、灰盒&lt;/p&gt;
+&lt;p&gt;2）单元测试、集成测试、系统测试、验收测试、回归测试、Alpha 测试、Beta
         
       
     
     </summary>
     
     
-      <category term="计算机" scheme="http://gaoyubinQAQ.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="面试" scheme="http://gaoyubinQAQ.github.io/categories/%E9%9D%A2%E8%AF%95/"/>
     
     
-      <category term="计算机 开发" scheme="http://gaoyubinQAQ.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E5%BC%80%E5%8F%91/"/>
+      <category term="面试" scheme="http://gaoyubinQAQ.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     
   </entry>
   
@@ -67,6 +70,33 @@
     
     
       <category term="数据库 驱动 核心类" scheme="http://gaoyubinQAQ.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93-%E9%A9%B1%E5%8A%A8-%E6%A0%B8%E5%BF%83%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>课前话</title>
+    <link href="http://gaoyubinqaq.github.io/2019/11/13/ke-qian-hua/"/>
+    <id>http://gaoyubinqaq.github.io/2019/11/13/ke-qian-hua/</id>
+    <published>2019-11-12T16:00:00.000Z</published>
+    <updated>2019-11-13T06:55:35.322Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;计算机基础知识&quot;&gt;&lt;a href=&quot;#计算机基础知识&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机" scheme="http://gaoyubinQAQ.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+      <category term="计算机 开发" scheme="http://gaoyubinQAQ.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
